@@ -23,6 +23,7 @@
             android:layout_marginLeft="25dp"
             android:layout_marginTop="25dp"
             android:background="@drawable/buttonstyle"
+            android:fontFamily="@font/nunito_bold"
             android:text="Mulai" />
     </LinearLayout>
 
@@ -50,6 +51,7 @@
         android:layout_marginBottom="407dp"
         android:text="Monitory Membantu Anda Mengontrol HP Anak"
         android:textAlignment="center"
+        android:textColor="@android:color/black"
         android:textSize="25dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

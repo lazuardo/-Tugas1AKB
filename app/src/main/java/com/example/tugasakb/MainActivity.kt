@@ -13,7 +13,7 @@ import android.widget.Button
 
  Update :
     - 4 April 2020 = Membuat Tampilan Awal ( Welcome)
-    - 5 April 2020 = membuat Tampilan 2 ( Login )
+    - 5 April 2020 = membuat Tampilan 2 ( Login ) + upload github
 
 */
 class MainActivity : AppCompatActivity() {
