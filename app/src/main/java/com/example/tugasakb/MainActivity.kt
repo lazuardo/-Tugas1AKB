@@ -13,7 +13,14 @@ import android.widget.Button
 
  Update :
     - 4 April 2020 = Membuat Tampilan Awal ( Welcome)
-    - 5 April 2020 = membuat Tampilan 2 ( Login ) + upload github
+    - 5 April 2020 = Membuat Tampilan 2 ( Login ) + upload github
+    - 6 April 2020 = - Membuat Tampilan 3 (Biodata)
+                     - Membuat EditText pada pengisian Kode Keluarga menjadi CAPSLOCK
+                     - Membuat Tampilan 4 ( Say Hai)
+                     - Merubah Icon Apikasi
+                     - Update Github
+
+
 
 */
 class MainActivity : AppCompatActivity() {

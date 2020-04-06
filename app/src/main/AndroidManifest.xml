@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".BioActivity"></activity>
+        <activity android:name=".HaiActivity"></activity>
+        <activity android:name=".Hai" />
+        <activity android:name=".BioActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

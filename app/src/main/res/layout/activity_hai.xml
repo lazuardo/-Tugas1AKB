@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f2f2"
+    tools:context=".HaiActivity">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="258dp"
+        android:layout_height="181dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="66dp"
+        android:layout_marginEnd="123dp"
+        android:layout_marginBottom="484dp"
+        android:fontFamily="@font/nunito_bold"
+        android:text="Beres! Sekarang Kamu udah bisa ngecek penggunaan Hp mu tiap hari buat bantu Kamu ngatur waktu :)"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonOke"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="615dp"
+        android:layout_marginEnd="81dp"
+        android:layout_marginBottom="68dp"
+        android:background="@drawable/buttonstyle"
+        android:fontFamily="@font/nunito_bold"
+        android:text="Oke"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
